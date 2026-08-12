@@ -1,0 +1,64 @@
+{
+  "tracks": [
+    {
+      "id": "song1",
+      "title": "星际穿越",
+      "artist": "艺术家A",
+      "cover": "cover/song1.jpg"
+    },
+    {
+      "id": "song2",
+      "title": "银河漫步",
+      "artist": "艺术家B",
+      "cover": "cover/song2.jpg"
+    },
+    {
+      "id": "song3",
+      "title": "月光奏鸣曲",
+      "artist": "艺术家C",
+      "cover": "cover/song3.jpg"
+    },
+    {
+      "id": "song4",
+      "title": "时空旅行",
+      "artist": "艺术家D",
+      "cover": "cover/song4.jpg"
+    },
+    {
+      "id": "song5",
+      "title": "星云之声",
+      "artist": "艺术家E",
+      "cover": "cover/song5.jpg"
+    },
+    {
+      "id": "song6",
+      "title": "深空回响",
+      "artist": "艺术家F",
+      "cover": "cover/song6.jpg"
+    },
+    {
+      "id": "song7",
+      "title": "黑洞之歌",
+      "artist": "艺术家G",
+      "cover": "cover/song7.jpg"
+    },
+    {
+      "id": "song8",
+      "title": "彗星轨迹",
+      "artist": "艺术家H",
+      "cover": "cover/song8.jpg"
+    },
+    {
+      "id": "song9",
+      "title": "光年之外",
+      "artist": "艺术家I",
+      "cover": "cover/song9.jpg"
+    },
+    {
+      "id": "song10",
+      "title": "宇宙尽头",
+      "artist": "艺术家J",
+      "cover": "cover/song10.jpg"
+    }
+  ]
+}
