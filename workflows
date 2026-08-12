@@ -1,0 +1,12 @@
+music-nfc/
+├── index.html          # 主播放器页面
+├── playlist.json       # 歌曲列表配置
+├── audio/              # 音频文件目录
+│   ├── song1.mp3
+│   ├── song2.mp3
+│   ├── ...
+│   └── song10.mp3
+└── cover/              # 封面图片（可选）
+    ├── song1.jpg
+    ├── song2.jpg
+    └── ...
